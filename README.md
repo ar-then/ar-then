@@ -1,4 +1,6 @@
-### Hi there 👋
+Currently a writer.
+Learn JS/React, web development in general, and metaverse development.
+Curious about IT technology.
 
 <!--
 **ar-then/ar-then** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
