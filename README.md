@@ -1,6 +1,6 @@
 Currently a writer.
-Learn JS/React, web development in general, and metaverse development.
-Curious about IT technology.
+Learn JS/React, web development in general, AI, and metaverse development.
+Probe various AI prompts for image and text generation, analytics, and communication.
 
 <!--
 **ar-then/ar-then** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
